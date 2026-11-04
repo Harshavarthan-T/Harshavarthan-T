@@ -1,4 +1,4 @@
-# Harshavarthan T
+# Harshavarthan Thiagarajan
 
 I study embedded systems at FH Dortmund. My projects explore how software systems behave when a service fails, a message arrives twice, or several components need to coordinate.
 
